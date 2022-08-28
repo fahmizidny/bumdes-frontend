@@ -1,2 +1,0 @@
-# bumdes-frontend
-aplikasi
